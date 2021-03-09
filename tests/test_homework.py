@@ -3,7 +3,6 @@
 
 from fun import homework
 
-
 def test_greatest_number():
     """Quick test to see if you can find the largest number in a list."""
     assert homework.find_greatest_number([1, 2, 3, 4, 5, 6, 7, 8]) == 8
